@@ -323,16 +323,7 @@ java -cp ".;path/to/ojdbc8.jar;path/to/jcalendar-1.4.jar" min.loginn
 
 ---
 
-## 🚀 Future Enhancements
 
-- [ ] Externalize database credentials into a `config.properties` file
-- [ ] Add SQL creation scripts for one-click database setup
-- [ ] Implement role-based access control with hashed passwords
-- [ ] Migrate to an embedded database (H2/SQLite) for easier local testing
-- [ ] Add unit tests for loan logic and input validation
-- [ ] Implement a fine calculation system for overdue returns
-- [ ] Add book cover image support
-- [ ] Export records to CSV/PDF
 
 ---
 
